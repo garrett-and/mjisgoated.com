@@ -1,0 +1,39 @@
+
+body{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/009/447/833/original/seamless-concrete-floor-texture-in-grey-background-endless-pattern-cement-wall-room-with-shade-of-gray-colour-monochrome-grunge-backdrop-with-repeat-cracked-surface-pattern-for-loft-design-concept-vector.jpg");
+    font-family: fantasy;
+}
+.tableaustyle{
+    display: block;
+margin: auto;
+}
+ol{
+    background-color: crimson;
+
+}
+h1{
+    background-color: black;
+    color: azure;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.img-center{
+    display: block;margin: auto;}
+
+.header{
+    position: absolute;
+    top: 0px;
+    display: block;
+    margin: auto;
+
+}
+.footer{
+font-size: medium;
+
+}
+
+.mainstuff{
+    position: absolute;
+}
+
+
